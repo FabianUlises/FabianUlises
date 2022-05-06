@@ -5,7 +5,8 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **ulises.fab@outlook.com** **https://www.linkedin.com/in/fabian-carrillo-555871232**
+- 📫 How to reach me **ulises.fab@outlook.com** 
+- **https://www.linkedin.com/in/ulises-carrillo**
 
 - ⚡ Fun fact **I love sports**
 
