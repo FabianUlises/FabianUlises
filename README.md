@@ -1,6 +1,5 @@
 <h1 align="center">Hey!</h1>
 <p>I'm a full-stack developer from Los Angeles California. My passion for software engineering comes from problem solving and learning new tech & libraries. My skills revolve around M.E.R.N stack, but I am expanding my skills by learning new languages.</p>
-- **https://www.linkedin.com/in/ulises-carrillo**
 
 
 <h3 align="left">Languages and Tools:</h3>
