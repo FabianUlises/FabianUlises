@@ -1,15 +1,6 @@
-<h1 align="center">Hey! 👋, I'm Fabian</h1>
-<h3 align="center">A Full-Stack developer</h3>
-
-- 🔭 I’m currently taking a course on **Full-Stack development**
-
-- 💬 Ask me about **Anything!**
-
-- 📫 How to reach me **ulises.fab@outlook.com** 
+<h1 align="center">Hey!</h1>
+<p>I'm a full-stack developer from Los Angeles California. My passion for software engineering comes from problem solving and learning new tech & libraries. My skills revolve around M.E.R.N stack, but I am expanding my skills by learning new languages.</p>
 - **https://www.linkedin.com/in/ulises-carrillo**
-
-- ⚡ Fun fact **I love sports**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
